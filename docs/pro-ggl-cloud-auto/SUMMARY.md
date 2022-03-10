@@ -1,0 +1,6 @@
++   [一、GCP 自动化简介](1.md)
++   [二、GCP 开发管理器入门](2.md)
++   [三、GCP Spinnaker 入门](3.md)
++   [四、GCP Tekton 入门](4.md)
++   [五、Jenkins 和 GCP 的自动化——本地 CI/CD 服务](5.md)
++   [谷歌云自动化高级教程](README.md)
